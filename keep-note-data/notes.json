@@ -1,0 +1,55 @@
+{
+  "notes": [
+    {
+      "firstName": "ROHIT",
+      "lastName": "RAJ",
+      "email": "rohit2000lmp@gmail.com",
+      "password": "Raaz@2000",
+      "confirmPassword": "Raaz@2000",
+      "gender": "Male",
+      "age": 22,
+      "phone": "7895416868",
+      "address": {
+        "street": "Ryan International School Ghaziabad, Udyog Kunj Industrial Area",
+        "city": "Ghaziabad",
+        "state": "up",
+        "zip": "20101"
+      },
+      "id": 1
+    },
+    {
+      "firstName": "ROHIT",
+      "lastName": "RAJ",
+      "email": "rohit2000lmp@gmail.com",
+      "password": "Raj@1234",
+      "confirmPassword": "Raj@1234",
+      "gender": "Male",
+      "age": 22,
+      "phone": "7896541236",
+      "address": {
+        "street": "Ryan International School Ghaziabad, Udyog Kunj Industrial Area",
+        "city": "Ghaziabad",
+        "state": "up",
+        "zip": "20101"
+      },
+      "id": 2
+    },
+    {
+      "firstName": "ROHIT",
+      "lastName": "RAJ",
+      "email": "rohit2000lmp@gmail.com",
+      "password": "Raaz@1234",
+      "confirmPassword": "Raaz@1234",
+      "gender": "Male",
+      "age": 22,
+      "phone": "7896541236",
+      "address": {
+        "street": "Ryan International School Ghaziabad, Udyog Kunj Industrial Area",
+        "city": "Ghaziabad",
+        "state": "up",
+        "zip": "20101"
+      },
+      "id": 3
+    }
+  ]
+}
